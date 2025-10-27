@@ -1,0 +1,11 @@
+/*SELECT ELECT VERSION();*/
+-- create alter drop
+
+DROP DATABASE  IF EXISTS telegram;
+CREATE SCHEMA telegram;
+USE telegram;
+
+DROP TABLE IF EXISTS users; 
+CREATE TABLE users(
+	id BIGINT UNSIGNED  NOT NULL AUTO_INCREMENT PRIMARY KEY
+);
