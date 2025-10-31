@@ -1,0 +1,33 @@
+# Pages-------------
+/#innodb_temp/
+/#innodb_redo/
+/performance_schema/
+/mysql/
+
+# Files-------------
+
+auto.cnf
+ca.pem
+ca-key.pem
+client-cert.pem
+client-key.pem
+ib_buffer_pool
+ibtmp1
+ibdata1
+mysql.ibd
+mysql_upgrade_history
+private_key.pem
+public_key.pem
+server-cert.pem
+server-key.pem
+undo_001
+undo_002
+*.log
+*.db
+*.err
+my.ini
+my.cnf
+.env
+.env.local
+.env.development
+Tumbs.db
