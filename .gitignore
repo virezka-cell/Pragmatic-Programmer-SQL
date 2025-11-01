@@ -1,10 +1,11 @@
-# Pages-------------
+# Pages----------------
+
 /#innodb_temp/
 /#innodb_redo/
 /performance_schema/
 /mysql/
 
-# Files-------------
+# Files----------------
 
 auto.cnf
 ca.pem
