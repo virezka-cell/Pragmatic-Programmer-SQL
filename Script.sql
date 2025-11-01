@@ -4,6 +4,7 @@ SELECT
 CREATE SCHEMA telegram;
 
 USE telegram;
+DROP TABLE users; 
 
 CREATE TABLE users(
 	id bigint UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
